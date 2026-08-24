@@ -1,4 +1,4 @@
--- 01/50 SQL Questions challenge
+-- 01/50 Days SQL Questions challenge
 
 
 /*
